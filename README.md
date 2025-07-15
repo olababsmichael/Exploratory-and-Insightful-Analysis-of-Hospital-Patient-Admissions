@@ -65,7 +65,7 @@ Key goals:
 -  **Trends Over Time:** Stable admissions from 2021–2022
 ![Admissions Trend](./Trendsinadmission.png)
 
--  **Length of Stay:** Higher for Diabetes & Cancer  
+-  **Length of Stay:** Higher for Arthritis & Asthma  
 ![Length of Stay by Condition](./Lengthofstay.png)
 
    **Admission Types:** `Mix of Elective, Emergency, Urgent`  
@@ -79,6 +79,16 @@ Key goals:
 ![Billing by Insurer](./Billingdifference.png)
 
 ---
+###  Why This Analysis Matters
+This project goes beyond charts, it reveals how hospitals can cut costs, improve care, and plan smarter:
+
+- Prevent high cost conditions by identifying frequent and expensive diagnoses
+
+- Reduce emergency billing through early detection and better admission planning
+
+- Use seasonal trends to anticipate patient spikes and allocate staff/resources in advance
+
+- Improve care with unbiased test result analysis and condition specific length of stay insights
 
 ##  Key Insights & Recommendations
 
